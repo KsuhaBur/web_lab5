@@ -171,8 +171,6 @@ header{
     background: url("images/DenisMob.jpg") no-repeat;
     object-fit: cover;
     object-position: top;
-    min-width: 316px;
-    min-height: 417px;
     background-size: cover;
     width: 100%;
     display: block;
